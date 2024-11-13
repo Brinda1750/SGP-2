@@ -42,6 +42,24 @@ This project demonstrates the deployment of a secure, scalable, and serverless w
 - **Scalability**: Load test ECS Fargate to evaluate scaling capabilities.
 - **Performance**: Benchmark latency and response times, optimized by CloudFront and ECS Fargate.
 
+## Screenshot
+This screenshot is a part of my project.
+![image](https://github.com/user-attachments/assets/57c04715-2207-4327-b3e9-e270d1c32b92)
+
+![image](https://github.com/user-attachments/assets/95329fdd-cd90-43a9-b6cb-c9897f25d328)
+
+![image](https://github.com/user-attachments/assets/a2ca0d61-3ac9-4acf-a111-e3ad23c176ad)
+
+![image](https://github.com/user-attachments/assets/eb1a992a-294b-4d82-9e6f-a892abdfada5)
+
+![image](https://github.com/user-attachments/assets/56ee38ac-5fe3-495f-a665-c7822f98ee34)
+
+![image](https://github.com/user-attachments/assets/c84c4549-0c49-447d-9bbc-6f831e9d1bc1)
+
+![image](https://github.com/user-attachments/assets/bbc13473-8ce2-4fd3-a752-f7a4a31b2b4d)
+
+![image](https://github.com/user-attachments/assets/56a5d1a8-4497-4303-9c76-23d59a451b89)
+
 ## Future Improvements
 - Multi-region deployment for disaster recovery.
 - Enhanced application layer security with AWS WAF.
