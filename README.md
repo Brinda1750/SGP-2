@@ -10,7 +10,7 @@ This project demonstrates the deployment of a secure, scalable, and serverless w
 - **Scalability and Performance**: Automatically scales according to demand, ensuring optimal performance and cost efficiency.
 
 ## Architecture
-![Architecture](image.png)
+![Architecture](image.webp)
 
 - **Presentation Layer**: Amazon CloudFront delivers static assets globally for low latency.
 - **Logic Layer**: ECS Fargate manages API and backend logic, scaling based on load.
